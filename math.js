@@ -13,4 +13,7 @@ const ans = math[action](n1, n2);
 
 console.log(`${n1} ${action} ${n2} = ${ans}`);
 
+console.log('--------------------')
+
+
 
